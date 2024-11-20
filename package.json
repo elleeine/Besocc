@@ -1,0 +1,12 @@
+{
+  "name": "besoccer-scraper",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "@googleapis/sheets": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node scraper.js"
+  }
+}
